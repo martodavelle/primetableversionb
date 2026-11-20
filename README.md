@@ -2,7 +2,7 @@
 
 A members-only club concept: Singapore's 25 hardest-to-book restaurants release prime-time tables to members, who prepay the restaurant's minimum spend (all of it goes toward the bill).
 
-Open `prime-table.html` in any browser. It's a single self-contained file with no build step.
+Open `index.html` in any browser, or visit the deployed site. It's a single self-contained file with no build step.
 
 - **Try it:** on the landing page, tap "Skip: try the demo as a member" and pick a tier.
 - **Other views:** My Profile → Prototype views switches to the Restaurant partner and Admin screens.
